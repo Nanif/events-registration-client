@@ -1,0 +1,15 @@
+.nedarim-iframe {
+    width: 100%;
+    height: 333px;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    border: 1px solid indianred;
+}
+
+.connect-alert {
+    text-align: center;
+    padding: 10px 0px;
+    font-family: Assistant, Arial;
+    color: #808080;
+    width: 50px
+}
